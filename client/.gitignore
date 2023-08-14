@@ -1,0 +1,41 @@
+# Node.js / NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build output
+build/
+dist/
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# Environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor files
+.vscode/
+.idea/
+*.iml
+
+# Log files
+logs/
+*.log
+
+# macOS files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Testing
+coverage/
+
+# Production optimizations
+*.env
+*.env.production
+*.env.production.local

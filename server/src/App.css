@@ -1,0 +1,35 @@
+/* CSS FOR Navbar */
+nav {
+    background-color: lightgray;
+}
+nav a {
+    text-decoration: none;
+    margin-right: 15px;
+} 
+nav a.active{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.button1{
+    margin-right: 10px;
+}
+.heading{
+    text-align: center;
+    background-color: aquamarine;
+}
+.order-form{
+    background-color: aquamarine;
+}
+.edit-form{
+    background-color: aquamarine;
+}
+.order-table{
+    background-color: aquamarine;
+}
+.table-head{
+    background-color: aliceblue;
+}
+.homeheading{
+    text-align: center;
+}
