@@ -1,6 +1,6 @@
-require("dotenv").config();
 // Import required dependencies
 const express = require("express");
+require("dotenv").config();
 const connectDB = require("./database/db.js");
 const cors = require("cors");
 const orderRoutes = require("./routes/orderRoutes.js");
